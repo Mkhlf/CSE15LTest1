@@ -11,7 +11,7 @@ import org.junit.*;
 public class JavafileTest {
     @Test
     public void test1() {
-        assertTrue(Javafile.returnFalse());
+        assertTrue(!Javafile.returnFalse());
 
     }
 
