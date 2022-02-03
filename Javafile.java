@@ -1,6 +1,6 @@
 public class Javafile {
 
-    public static void name() {
+    public static void main() {
 
     }
 }
